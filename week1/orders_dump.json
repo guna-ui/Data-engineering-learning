@@ -1,0 +1,50 @@
+[
+    {
+        "order_id": 1001,
+        "customer": {
+            "name": "Sarah Connor",
+            "email": "sarah@cyberdyne.com"
+        },
+        "shipping": {
+            "address": {
+                "city": "Los Angeles",
+                "state": "CA"
+            },
+            "tracking_number": "TRK-9901"
+        },
+        "line_items": [
+            {
+                "item": "Laptop",
+                "price": 1200.0,
+                "qty": 1
+            },
+            {
+                "item": "Mouse",
+                "price": 25.0,
+                "qty": 2
+            }
+        ]
+    },
+    {
+        "order_id": 1002,
+        "customer": {
+            "name": "John Connor"
+        },
+        "shipping": null,
+        "line_items": [
+            {
+                "item": "eBook",
+                "price": 15.0,
+                "qty": 1
+            }
+        ]
+    },
+    {
+        "order_id": 1003,
+        "customer": null,
+        "shipping": {
+            "tracking_number": "TRK-9903"
+        },
+        "line_items": []
+    }
+]
