@@ -1,0 +1,98 @@
+[
+  {
+    "transaction_id": "tx_1001",
+    "user_id": "usr_9021",
+    "amount": "$1,450.00",
+    "currency": "usd",
+    "timestamp": "2026-10-23T10:15:30Z",
+    "status": "completed",
+    "tags": [
+      "enterprise",
+      "software"
+    ]
+  },
+  {
+    "transaction_id": "tx_1002",
+    "user_id": "usr_4432",
+    "amount": 250.75,
+    "currency": "EUR",
+    "timestamp": "2026-10-23T10:17:10Z",
+    "status": "pending",
+    "tags": [
+      "hardware"
+    ]
+  },
+  {
+    "transaction_id": "tx_1003",
+    "user_id": "usr_8819",
+    "amount": "-50.00",
+    "currency": "USD",
+    "timestamp": "2026-10-23T10:20:00Z",
+    "status": "refunded",
+    "tags": [
+      "refund"
+    ]
+  },
+  {
+    "transaction_id": "tx_1004",
+    "user_id": "usr_1020",
+    "amount": "0.00",
+    "currency": "GBP",
+    "timestamp": "2026-10-23T10:22:45Z",
+    "status": "cancelled"
+  },
+  {
+    "transaction_id": "tx_1005",
+    "user_id": "",
+    "amount": "89.99",
+    "currency": "CAD",
+    "timestamp": "2026-10-23T10:25:00Z"
+  },
+  {
+    "user_id": "usr_7761",
+    "amount": "$49.99",
+    "currency": "USD",
+    "timestamp": "2026-10-23T10:28:12Z"
+  },
+  {
+    "transaction_id": "tx_1007",
+    "user_id": "usr_3310",
+    "amount": "  1,200.00  ",
+    "currency": "jpy",
+    "timestamp": "2026-10-23T10:30:00Z",
+    "tags": [
+      "overseas"
+    ]
+  },
+  {
+    "transaction_id": "tx_1001",
+    "user_id": "usr_9021",
+    "amount": "$1,450.00",
+    "currency": "usd",
+    "timestamp": "2026-10-23T10:15:30Z",
+    "status": "completed",
+    "tags": [
+      "enterprise",
+      "software"
+    ]
+  },
+  {
+    "transaction_id": "tx_1009",
+    "user_id": "usr_5562",
+    "amount": "invalid_number",
+    "currency": "USD",
+    "timestamp": "2026-10-23T10:35:10Z"
+  },
+  {
+    "transaction_id": "tx_1010",
+    "user_id": "usr_9912",
+    "amount": "320.00",
+    "currency": "GBP",
+    "timestamp": "2026-10-23T10:40:00Z",
+    "status": "settled",
+    "tags": [
+      "cloud",
+      "storage"
+    ]
+  }
+]
