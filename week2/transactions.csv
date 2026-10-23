@@ -1,0 +1,4 @@
+transaction_id,user_id,amount,currency,timestamp
+tx_2001,usr_111,150.00,USD,2026-10-24T08:00:00Z
+tx_2002,usr_222,89.50,EUR,2026-10-24T08:05:00Z
+tx_2003,usr_333,420.00,GBP,2026-10-24T08:10:00Z

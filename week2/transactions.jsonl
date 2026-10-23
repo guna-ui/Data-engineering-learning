@@ -1,0 +1,3 @@
+{"transaction_id": "tx_3001", "user_id": "usr_777", "amount": 99.99, "currency": "USD", "timestamp": "2026-10-24T09:00:00Z"}
+{"transaction_id": "tx_3002", "user_id": "usr_888", "amount": 1250.00, "currency": "EUR", "timestamp": "2026-10-24T09:05:00Z"}
+{"transaction_id": "tx_3003", "user_id": "usr_999", "amount": 310.25, "currency": "CAD", "timestamp": "2026-10-24T09:10:00Z"}
