@@ -1,0 +1,4 @@
+order_id,customer,amount,status
+101,Alice,250.5,completed
+103,Charlie,15.0,completed
+105,David,45.2,completed

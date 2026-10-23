@@ -1,0 +1,6 @@
+2026-10-18 10:00:01 INFO User 101 logged in
+2026-10-18 10:00:03 WARNING Disk space at 85%
+2026-10-18 10:00:05 ERROR Database connection failed
+2026-10-18 10:00:07 INFO User 102 viewed dashboard
+2026-10-18 10:00:09 ERROR Payment gateway timeout
+2026-10-18 10:00:11 INFO User 101 logged out
